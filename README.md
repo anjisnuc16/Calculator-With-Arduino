@@ -8,7 +8,7 @@ Components Required:
 1. Arduino UNNO R3
 2. LCD with I2C
 3. Keypad (4x4)
-4. Jumper Wires (Male to Male) (x7)
+4. Jumper Wires (Male to Male) (x8)
 5. Jumper Wires (Male to Female) (x4)
 
 
