@@ -10,6 +10,7 @@ Components Required:
 3. Keypad (4x4)
 4. Jumper Wires (Male to Male) (x8)
 5. Jumper Wires (Male to Female) (x4)
+6. 9V Battery
 
 
 Connections:
